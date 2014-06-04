@@ -14,7 +14,7 @@ I use cron with the following info to run the task every half an hour mon-fri.
 
 osascript is neccessary as cron can't call an applescript directly
 
-To customise replace Dev with the name of the email account you wish to be the subject.
+To customise replace Dev etc with the name of the email account you wish to be the subject.
 
 Recognition 
 
